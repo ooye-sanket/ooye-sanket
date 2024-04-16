@@ -6,7 +6,7 @@
 - General mails at kalekarsanket005@gmail.com
   
 **Writings**
-- I write cool Tech stuff on my blog. Check it out for some interesting reads! [hashnode](https://hashnode.com/@ooye-sanket) , [DEV.to](https://dev.to/ooye_sanket)
+- I write cool Tech stuff on my blog. Check it out for some interesting reads!  [DEV.to](https://dev.to/ooye_sanket) , [hashnode](https://hashnode.com/@ooye-sanket)
 
 **Project and experiments**
 
