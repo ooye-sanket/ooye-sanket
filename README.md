@@ -19,3 +19,4 @@
 **Socials**
 
 [X/ooye_sanket](https://twitter.com/ooye_sanket) &bullet; [LinkedIn/sanket-kalekar](https://www.linkedin.com/in/sanketkalekar/) &bullet; [Instagram/ooye.sanket](https://www.instagram.com/ooye.sanket/) &bullet; [Website/sanket-dev](https://ooyesanket.netlify.app/) &bullet;  [Meetings at cal.com/yashsehgal](https://cal.com/ooye-sanket)
+
